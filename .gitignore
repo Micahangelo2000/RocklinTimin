@@ -1,5 +1,22 @@
+# Binaries
+*.exe
+*.dll
+*.bin
+
+# Compressed files
+*.zip
+*.tar.gz
+
+# Build directories
+/dist/
+/build/
+/out/
+
+#Other Folders
 /.DS_Store
 /Backups
+
+#Files
 /SaveData.txt
 /calander.txt
 /classes.txt
